@@ -8,4 +8,4 @@ Gocde generated with my ofxGCode library: https://github.com/andymasteroffish/of
 
 Day 1
 
-[day 1 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_01/pic/day_01_trim.jpg)
+![day 1 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_01/pic/day_01_trim.jpg)
