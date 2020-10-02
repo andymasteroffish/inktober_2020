@@ -14,4 +14,8 @@ G-code read by the Axidraw using my axidraw_gcode_ready python app: https://gith
 
 ## Day 1
 
-![day 1 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_01/pic/day_01_trim_small.jpg)
+![day 1 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_01/pics/day_01_trim_small.jpg)
+
+## Day 2
+
+![day 2 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_02/pics/day_02_small.jpg)
