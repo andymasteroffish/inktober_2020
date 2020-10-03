@@ -19,3 +19,7 @@ G-code read by the Axidraw using my axidraw_gcode_ready python app: https://gith
 ## Day 2
 
 ![day 2 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_02/pics/day_02_small.jpg)
+
+## Day 3
+
+![day 3 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_03/pics/day_03_small.jpg)
