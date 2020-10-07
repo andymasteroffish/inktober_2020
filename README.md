@@ -13,6 +13,10 @@ G-code read by the Axidraw using my axidraw_gcode_ready python app: https://gith
 (One again, you're free to use it, but it's pretty idiosyncratic)
 
 
+## Day 7
+
+![day 7 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_07/pics/day_07_full_square_small.jpg)
+
 ## Day 6
 
 ![day 6 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_06/pics/day_06_full_small.jpg)
