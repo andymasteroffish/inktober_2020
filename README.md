@@ -12,6 +12,10 @@ G-code generated with my ofxGCode library: https://github.com/andymasteroffish/o
 G-code read by the Axidraw using my axidraw_gcode_ready python app: https://github.com/andymasteroffish/axidraw_gcode_reader
 (One again, you're free to use it, but it's pretty idiosyncratic)
 
+## Day 11
+
+![day 11 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_11/pics/day_11_combined_small.jpg)
+
 ## Day 10
 
 ![day 10 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_10/pics/day_10_full_small.jpg)
