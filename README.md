@@ -15,6 +15,7 @@ G-code read by the Axidraw using my axidraw_gcode_ready python app: https://gith
 ## Day 18
 
 ![day 18 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_18/pics/day_18_trim_small.jpg)
+![day 18 monocolor image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_18/pics/day_18_mono_trim_small.jpg)
 
 ## Day 17
 
