@@ -15,6 +15,7 @@ G-code read by the Axidraw using my axidraw_gcode_ready python app: https://gith
 ## Day 22
 
 ![day 22 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_22/pics/day_22_trim_small.jpg)
+
 This plot traces the paths of pacman and ghosts through an extruded maze. All of the ghosts use the pathfinding from the original game, modified to work in 3D.
 
 ## Day 21
