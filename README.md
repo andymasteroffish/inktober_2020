@@ -14,11 +14,11 @@ G-code read by the Axidraw using my axidraw_gcode_ready python app: https://gith
 
 ## Day 26
 
-![day 26 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_24/pics/day_26_full_small.jpg)
+![day 26 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_26/pics/day_26_full_small.jpg)
 
 ## Day 25
 
-![day 25 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_24/pics/day_25_trim_small.JPG)
+![day 25 image](https://github.com/andymasteroffish/inktober_2020/blob/main/day_25/pics/day_25_trim_small.JPG)
 
 ## Day 24
 
