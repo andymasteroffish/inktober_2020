@@ -2,7 +2,7 @@
 
 Plotter drawings and source code by Andy Wallace for Inktober 2020
 
-Many of these prints can be purchased form my store: https://andymakes.bigcartel.com/
+Many of these drawings can be purchased from my store: https://andymakes.bigcartel.com/
 
 Each folder contains the oF source code, a few pics, and the G-code file for the print.
 
