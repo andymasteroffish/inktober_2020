@@ -2,6 +2,8 @@
 
 Plotter drawings and source code by Andy Wallace for Inktober 2020
 
+Many of these prints can be purchased form my store: https://andymakes.bigcartel.com/
+
 Each folder contains the oF source code, a few pics, and the G-code file for the print.
 
 All code written in openFrameworks 0.11.0 and plotted using an AxidDraw V3
